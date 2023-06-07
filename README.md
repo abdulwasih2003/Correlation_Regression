@@ -1,28 +1,3 @@
-Exp.No : 03 
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-Date : 12.04.2023
-<br>
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -45,11 +20,7 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-```python
-Program by: Kaushika A
-reg no:212221230048
-```
-<br>
+
 
 ```python
 import numpy as np
